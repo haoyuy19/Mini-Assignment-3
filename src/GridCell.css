@@ -1,0 +1,9 @@
+.GridCell {
+  height: 100px;
+  width: 100px;
+  color: white;
+  border: grey;
+  border-width: 1px;
+  border-style: solid;
+  flex-basis: 50%;
+}
